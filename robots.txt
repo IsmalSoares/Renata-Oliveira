@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ismalsoares.github.io/Renata-Oliveira/sitemap.xml
