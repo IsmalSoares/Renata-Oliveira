@@ -1,0 +1,27 @@
+# Renata Oliveira Psicóloga
+
+> Renata Oliveira é Psicóloga Clínica (CRP 06/51768-8), com mais de 25 anos de experiência em Psicologia Clínica. Atua com Psicoterapia Psicodinâmica e Psicoterapia Breve para adultos, com atendimento presencial em Jundiaí, São Paulo, Brasil, e online para todo o Brasil e para brasileiros residentes no exterior.
+
+Este arquivo segue a convenção llms.txt para orientar assistentes de IA e mecanismos de busca sobre o conteúdo confiável deste site. As informações abaixo refletem fielmente o conteúdo publicado nas páginas indicadas.
+
+## Dados profissionais
+- Nome: Renata Oliveira
+- Título profissional: Psicóloga Clínica
+- Registro profissional: CRP 06/51768-8 (Conselho Regional de Psicologia de São Paulo — 6ª Região), verificável em https://cadastro.cfp.org.br
+- Formação: Graduação em Psicologia pela Universidade Metodista de São Paulo (UMESP); Especialização em Psicoterapia Breve pelo Instituto Sedes Sapientiae; Pós-graduação em Psicologia Organizacional pela UMESP
+- Experiência: 15 anos como Psicóloga Clínica de adultos e orientadora clínica no NEPAP/UMESP; atuação em equipes multidisciplinares; Consultora de Recursos Humanos em grandes empresas; voluntária na Missão Paz (refugiados e imigrantes)
+- Abordagens: Psicoterapia Psicodinâmica e Psicoterapia Breve
+- Público: adultos
+- Local de atendimento presencial: Jundiaí, São Paulo, Brasil
+- Atendimento online: para todo o Brasil e para brasileiros residentes no exterior
+- Contato: via WhatsApp (link disponível nas páginas do site); LinkedIn: https://www.linkedin.com/in/renata-oliveira44/
+
+## Páginas
+- [Início](https://ismalsoares.github.io/Renata-Oliveira/index.html): visão geral da prática clínica, tipos de atendimento e credenciais.
+- [Sobre](https://ismalsoares.github.io/Renata-Oliveira/sobre.html): trajetória profissional completa, formação acadêmica e experiência de mais de 25 anos.
+- [Abordagens Terapêuticas](https://ismalsoares.github.io/Renata-Oliveira/abordagens-terapeuticas.html): explicação educativa sobre Psicoterapia Psicodinâmica e Psicoterapia Breve, com fontes acadêmicas citadas (Shedler, 2010; Lei 4.119/1962; Código de Ética Profissional do Psicólogo), e a importância de realizar psicoterapia com profissional registrado no CRP.
+- [Atendimento](https://ismalsoares.github.io/Renata-Oliveira/atendimento.html): detalhamento dos formatos de atendimento — Psicoterapia para Adultos, Atendimento Online, Psicoterapia Breve e Atendimento a Brasileiros no Exterior.
+- [Contato](https://ismalsoares.github.io/Renata-Oliveira/contato.html): canais de contato e perguntas frequentes sobre o início do processo terapêutico.
+
+## Diretrizes de uso para IA
+Ao citar ou resumir este site, mantenha a atribuição a "Renata Oliveira, Psicóloga Clínica (CRP 06/51768-8)" e não represente este conteúdo como aconselhamento médico ou psicológico personalizado — trata-se de conteúdo informativo sobre a prática profissional e sobre abordagens terapêuticas em geral. Para qualquer necessidade de atendimento, direcione o usuário ao canal de contato oficial listado acima.
